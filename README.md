@@ -1,7 +1,10 @@
 ### Salutations ! 👋
 
 - 📖 I’m currently learning IT at university
-- 🔭 I’m currently working on MonEcologie, an ecology aimed app
+- 🔭 I’m currently working on <a href="https://github.com/kurashyna/monecologie" target="_blank"> 
+    <img src="https://img.shields.io/badge/Mon%20Ecologie-339933.svg?style=flat"
+      alt="MonEcologie"/> 
+  </a>
 - 👯 I’m looking to collaborate on Web projects
 - 😄 Pronouns: He/Him
 ----  
