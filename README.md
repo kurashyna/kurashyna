@@ -1,6 +1,9 @@
 ### Salutations ! 👋
 
-- 📖 I’m currently learning IT at university
+- 📖 I’m currently learning  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ReactJs-61DAFB.svg?style=flat&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
 - 🔭 I’m currently working on <a href="https://github.com/kurashyna/monecologie" target="_blank"> 
     <img src="https://img.shields.io/badge/Mon%20Ecologie-339933.svg?style=flat"
       alt="MonEcologie"/> 
