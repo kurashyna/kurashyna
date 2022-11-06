@@ -1,5 +1,5 @@
 ### Salutations ! 👋
-
+---- 
 - 📖 I’m currently learning
     <img src="https://img.shields.io/badge/ReactJs-61DAFB.svg?style=flat&logo=react&logoColor=black"
       alt="react"/> & <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=react&logoColor=black"
