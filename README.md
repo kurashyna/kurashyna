@@ -4,13 +4,7 @@
     <img src="https://img.shields.io/badge/ReactJs-61DAFB.svg?style=flat&logo=react&logoColor=black"
       alt="react"/> & <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=react&logoColor=black"
       alt="react"/> 
-- 🔭 I’m currently working on <a href="https://github.com/kurashyna/mon-ecologie-app" target="_blank"> 
-    <img src="https://img.shields.io/badge/mon--ecologie--app-339933.svg?style=flat"
-      alt="MonEcologie"/> 
-  </a>
-  &
-  <img src="https://img.shields.io/badge/Kura%20Hub-E23237.svg?style=flat"
-      alt="Kura Hub"/>
+- 🔭 I’m currently working on a mobile app built on ReactNative
 - 👯 I’m looking to collaborate on Web projects
 - 😄 Pronouns: He/Him
 ----  
