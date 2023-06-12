@@ -7,7 +7,6 @@
 ----  
 <h3 align="center">Currently working with </h3>
    <div style="margin-top:10px" align="center">
-        
         <a href="https://vuejs.org/" target="_blank"> 
             <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"  
             alt="Vue.js"/> 
