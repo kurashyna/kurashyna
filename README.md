@@ -21,10 +21,36 @@
         </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> 
             <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"  
-            alt="PHP"/> 
+            alt="TS"/> 
+        </a>
+         <a href="https://www.typescriptlang.org/" target="_blank"> 
+            <img src="https://img.shields.io/badge/Sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"  
+            alt="SQlite"/> 
         </a>
     </div>
-
+<h3 align="center">Ohter skills </h3>
+   <div style="margin-top:10px" align="center">
+        <a href="https://react.dev/" target="_blank"> 
+            <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"  
+            alt="React"/> 
+        </a>
+        <a href="https://reactnative.dev/" target="_blank"> 
+            <img src="https://img.shields.io/badge/react native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"  
+            alt="React Native"/> 
+        </a>
+        <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/" target="_blank"> 
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"  
+            alt="JS"/> 
+        </a>
+        <a href="https://www.python.org/" target="_blank"> 
+            <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"  
+            alt="Python"/> 
+        </a>
+         <a href="https://www.djangoproject.com/" target="_blank"> 
+            <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"  
+            alt="Django"/> 
+        </a>
+    </div>
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 
 <div style="margin-top:10px" align="center">
