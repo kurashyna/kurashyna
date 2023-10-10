@@ -1,21 +1,49 @@
 ### Salutations ! 👋
 ---- 
-- 📖 I’m currently learning VueJS & NuxtJS
-- 🔭 I’m currently working on a website built on Vue
-- 👯 I’m looking to collaborate on Web projects
+- 📖 I’m currently studying for MSC in IT
+- 🔭 I’m currently working on a school projects and a personnal discord bot
+- 👯 I’m looking to collaborate on Web and ReactNative projects 
 - 😄 Pronouns: He/Him
 ----  
-<h3 align="center">Currently working with </h3>
+<h3 align="center">Currently working with / learning : </h3>
    <div style="margin-top:10px" align="center">
-        <a href="https://vuejs.org/" target="_blank"> 
+        <a href="https://www.python.org/" target="_blank"> 
+            <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"  
+            alt="Python"/> 
+        </a>
+         <a href="https://learn.microsoft.com/fr-fr/cpp" target="_blank"> 
+            <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"  
+            alt="cpp"/> 
+        </a>
+         <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"> 
+            <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"  
+            alt="c"/> 
+        </a>
+      <a href="https://www.oracle.com/fr/java/" target="_blank"> 
+            <img src="https://img.shields.io/badge/Java-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"  
+            alt="java"/> 
+        </a>
+      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/" target="_blank"> 
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"  
+            alt="JS"/> 
+        </a>
+      <br/>
+       <a href="https://numpy.org/" target="_blank"> 
+            <img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"  
+            alt="numpy"/> 
+        </a>
+      <a href="https://pandas.pydata.org/" target="_blank"> 
+            <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  
+            alt="pandas"/> 
+        </a>
+    </div>
+<h3 align="center">Other skills : </h3>
+   <div style="margin-top:10px" align="center">
+      <a href="https://vuejs.org/" target="_blank"> 
             <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"  
             alt="Vue.js"/> 
         </a>
-        <a href="https://nuxt.com/" target="_blank"> 
-            <img src="https://img.shields.io/badge/nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white"  
-            alt="Nuxt.js"/> 
-        </a>
-        <a href="https://www.php.net/" target="_blank"> 
+       <a href="https://www.php.net/" target="_blank"> 
             <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  
             alt="PHP"/> 
         </a>
@@ -27,9 +55,6 @@
             <img src="https://img.shields.io/badge/Sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"  
             alt="SQlite"/> 
         </a>
-    </div>
-<h3 align="center">Ohter skills </h3>
-   <div style="margin-top:10px" align="center">
         <a href="https://react.dev/" target="_blank"> 
             <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"  
             alt="React"/> 
@@ -37,14 +62,6 @@
         <a href="https://reactnative.dev/" target="_blank"> 
             <img src="https://img.shields.io/badge/react native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"  
             alt="React Native"/> 
-        </a>
-        <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/" target="_blank"> 
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"  
-            alt="JS"/> 
-        </a>
-        <a href="https://www.python.org/" target="_blank"> 
-            <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"  
-            alt="Python"/> 
         </a>
          <a href="https://www.djangoproject.com/" target="_blank"> 
             <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"  
