@@ -36,6 +36,14 @@
             <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  
             alt="pandas"/> 
         </a>
+        <a href="https://reactnative.dev/" target="_blank"> 
+            <img src="https://img.shields.io/badge/react native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"  
+            alt="React Native"/> 
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank"> 
+            <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"  
+            alt="TS"/> 
+        </a>
     </div>
 <h3 align="center">Other skills : </h3>
    <div style="margin-top:10px" align="center">
@@ -47,10 +55,6 @@
             <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  
             alt="PHP"/> 
         </a>
-        <a href="https://www.typescriptlang.org/" target="_blank"> 
-            <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"  
-            alt="TS"/> 
-        </a>
          <a href="https://www.typescriptlang.org/" target="_blank"> 
             <img src="https://img.shields.io/badge/Sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"  
             alt="SQlite"/> 
@@ -58,10 +62,6 @@
         <a href="https://react.dev/" target="_blank"> 
             <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"  
             alt="React"/> 
-        </a>
-        <a href="https://reactnative.dev/" target="_blank"> 
-            <img src="https://img.shields.io/badge/react native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"  
-            alt="React Native"/> 
         </a>
          <a href="https://www.djangoproject.com/" target="_blank"> 
             <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"  
