@@ -1,7 +1,7 @@
 ### Salutations ! 👋
 ---- 
 - 📖 I’m currently studying for MSC in IT
-- 🔭 I’m currently working on a school projects and a personnal discord bot
+- 🔭 I’m currently working on a school projects and a personnal mobile app
 - 👯 I’m looking to collaborate on Web and ReactNative projects 
 - 😄 Pronouns: He/Him
 ----  
